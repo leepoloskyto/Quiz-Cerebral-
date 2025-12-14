@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background: #111;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+#game {
+  text-align: center;
+  padding-top: 50px;
+}
+
+button {
+  padding: 15px 30px;
+  font-size: 18px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+#answers button {
+  display: block;
+  margin: 10px auto;
+  width: 220px;
+}
+
+#message {
+  margin-top: 30px;
+  font-size: 22px;
+}
